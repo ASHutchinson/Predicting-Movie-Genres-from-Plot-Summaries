@@ -34,7 +34,7 @@ I went through a variety of steps to transform the data for modeling
 * Converted to lowercase
 * Removed stop words
 
-![Top_15_Words](https://user-images.githubusercontent.com/79812486/126676272-21a112d3-b6c7-42ea-b87e-7664716564d6.png)
+![top 15 words](https://user-images.githubusercontent.com/79812486/126677471-9fdb8f09-4930-496a-8b40-a90f7550547d.png)
 
 
 ## Prediction Modeling
