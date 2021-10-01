@@ -10,7 +10,7 @@ This ![data](https://www.cs.cmu.edu/~ark/personas/) was collected by the Languag
 
 
 ## Exploratory Data Analysis:
-For EDA, I combined the multiple datasets, checked for missing values, labeled and separated the information intoo columns, and tried some plotting. 
+For EDA, I combined the multiple datasets, checked for missing values, labeled and separated the information in to columns, and tried some plotting. 
 ![Top Genres](https://user-images.githubusercontent.com/79812486/126675707-a81519d1-9d04-4f4c-b657-b1a0570a0a94.png)
 
 The top 5 genres were:
